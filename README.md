@@ -2,7 +2,7 @@
 
 ## Bem Vindo ao meu perfil do GitHub ✍️         
             
-- Estudante de Análise e Desenvolvimento de Sistemas no Centro Estadual de Educação Profissional de Cianorte � 🖱️ 🎧     
+- Estudante de Análise e Desenvolvimento de Sistemas no Centro Estadual de Educação Profissional de Cianorte ⌨ 🖱️ 🎧     
 
 ### Ferramentas e Tecnologias
 
@@ -15,9 +15,9 @@
  
  ### Contatos:
 <div align="center"> 
-  <a href="https://instagram.com/denisrezendemr_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:denis.moraes@escola.pr.gov.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">     </a>
-  <a href="https://www.linkedin.com/in/denis-rezende-de-moraes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://instagram.com/gui_granville_" target="_blank"><img src="https://logodownload.org/wp-content/uploads/2017/04/instagram-logo.png" target="_blank" width="30px"></a> 
+  <a href = "mailto:guilhermeggranville@gmail.com"><img src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png" target="_blank" width="30px"></a>
+  <a href="https://www.linkedin.com/in/guilherme-gabriel-95737b277" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"width="30px"></a> 
 </div>
 
 ##
