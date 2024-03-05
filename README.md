@@ -16,7 +16,7 @@
  ### Contatos:
 <div align="center"> 
 <a href="https://instagram.com/gui_granville_" target="_blank"><img src="https://logodownload.org/wp-content/uploads/2017/04/instagram-logo.png" target="_blank" width="30px"></a> 
-  <a href = "mailto:guilhermeggranville@gmail.com"><img src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png" target="_blank" width="33px"></a>
+  <a href = "mailto:guilhermeggranville@gmail.com"><img src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png" target="_blank" width="40px"></a>
   <a href="https://www.linkedin.com/in/guilherme-gabriel-95737b277" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"width="30px"></a> 
 </div>
 
