@@ -1,4 +1,4 @@
-#  Olá, Meu nome é Guilherme Granville, mas pode me chamar só de Granville 😉
+#  Olá, Meu nome é Guilherme Granville, mas pode me chamar só de Granville 😃
 
 ## Bem Vindo ao meu perfil do GitHub ✍️         
             
