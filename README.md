@@ -18,8 +18,6 @@
 <a href="https://instagram.com/gui_granville_" target="_blank"><img src="https://logodownload.org/wp-content/uploads/2017/04/instagram-logo.png" width="30px" target="_blank"></a> 
   <a href = "mailto:guilhermeggranville@gmail.com"><img src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png" target="_blank" width="35px"></a>
   <a href="https://www.linkedin.com/in/guilherme-gabriel-95737b277" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" target="_blank" width="30px"></a> 
-            <a href="https://imgbb.com/"><img src="https://i.ibb.co/M9ZD6sH/logo.png" alt="logo" border="0"></a>
-            <a href="https://ibb.co/r32Q8MZ"><img src="https://i.ibb.co/dt4fC6Q/pneus.jpg" alt="pneus" border="0"></a>
 </div>
 
 ##
