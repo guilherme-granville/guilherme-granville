@@ -61,7 +61,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/guilherme-granville/guilherme-granville/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/guilherme-granville/guilherme-granville/snake.yml" alt="Snake animation" />
 
 ###
 
