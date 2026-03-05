@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! my name is Guilherme Granville, but you can just call me Granville 😃</h1>
+<h1 align="left">Hi 👋! my name is Guilherme Granville, but you can just call me Granville</h1>
 
 ###
 
