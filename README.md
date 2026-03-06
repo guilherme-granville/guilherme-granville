@@ -7,7 +7,11 @@
 ###
 
 
-<p align="left">Systems Analysis and Development student at the Centro Estadual de Educação Profissional de Cianorte ⌨ 🖱️ 🎧</p>
+<p align="left">
+Software Engineering student 💻 <br>
+Technical degree in Systems Analysis and Development <br>
+Passionate about programming, automation and problem solving
+</p>
 
 ###
 
